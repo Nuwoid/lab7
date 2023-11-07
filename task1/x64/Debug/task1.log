@@ -1,0 +1,7 @@
+﻿  startProgramm.cpp
+D:\codeMb\Лабораторные\Lab7\task1\task1\startProgramm.cpp(15,26): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+D:\codeMb\Лабораторные\Lab7\task1\task1\startProgramm.cpp(35,23): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+D:\codeMb\Лабораторные\Lab7\task1\task1\startProgramm.cpp(49,37): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+D:\codeMb\Лабораторные\Lab7\task1\task1\startProgramm.cpp(54,39): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+D:\codeMb\Лабораторные\Lab7\task1\task1\startProgramm.cpp(59,38): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+  task1.vcxproj -> D:\codeMb\Лабораторные\Lab7\task1\x64\Debug\task1.exe
