@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Исходные файлы">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Файлы заголовков">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Файлы ресурсов">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Исходные файлы\functions">
+      <UniqueIdentifier>{54f0e115-0c23-4a38-88b8-316ca9157f0a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\inputCheck">
+      <UniqueIdentifier>{3c599a31-cf6f-4808-b135-0642d815eb24}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="task2.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="inputCheck.cpp">
+      <Filter>Исходные файлы\inputCheck</Filter>
+    </ClCompile>
+    <ClCompile Include="outputDatacpp.cpp">
+      <Filter>Исходные файлы\functions</Filter>
+    </ClCompile>
+    <ClCompile Include="inputData.cpp">
+      <Filter>Исходные файлы\functions</Filter>
+    </ClCompile>
+    <ClCompile Include="deleteDataFromList.cpp">
+      <Filter>Исходные файлы\functions</Filter>
+    </ClCompile>
+    <ClCompile Include="addToList.cpp">
+      <Filter>Исходные файлы\functions</Filter>
+    </ClCompile>
+    <ClCompile Include="lookThroughList.cpp">
+      <Filter>Исходные файлы\functions</Filter>
+    </ClCompile>
+    <ClCompile Include="deleteSameData.cpp">
+      <Filter>Исходные файлы\functions</Filter>
+    </ClCompile>
+    <ClCompile Include="findInList.cpp">
+      <Filter>Исходные файлы\functions</Filter>
+    </ClCompile>
+    <ClCompile Include="changeFromList.cpp">
+      <Filter>Исходные файлы\functions</Filter>
+    </ClCompile>
+    <ClCompile Include="startProgramm.cpp">
+      <Filter>Исходные файлы\functions</Filter>
+    </ClCompile>
+    <ClCompile Include="istInAlphabeticOrderByName.cpp.cpp">
+      <Filter>Исходные файлы\functions</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="inputCheck.h">
+      <Filter>Исходные файлы\inputCheck</Filter>
+    </ClInclude>
+    <ClInclude Include="functions.h">
+      <Filter>Исходные файлы\functions</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

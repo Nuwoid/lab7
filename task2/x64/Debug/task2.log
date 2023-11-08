@@ -1,0 +1,7 @@
+﻿  outputDatacpp.cpp
+  startProgramm.cpp
+D:\codeMb\Лабораторные\Lab7\task1\task2\startProgramm.cpp(16,27): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+D:\codeMb\Лабораторные\Lab7\task1\task2\startProgramm.cpp(39,23): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+  Создание кода...
+  LINK : не найден или не выполнена сборка D:\codeMb\Лабораторные\Lab7\task1\x64\Debug\task2.exe при последней инкрементной компоновке; выполняется полная компоновка
+  task2.vcxproj -> D:\codeMb\Лабораторные\Lab7\task1\x64\Debug\task2.exe
